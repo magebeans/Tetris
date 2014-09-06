@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1409361558 source:f:\dropbox\documents\source code\tetris\main.cpp
+	"piece.h"
+	"board.h"
+	"graphics.h"
+	<dos.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	<ctime>
+
+1384017582 f:\dropbox\documents\source code\tetris\piece.h
+
+1384017615 f:\dropbox\documents\source code\tetris\board.h
+	"piece.h"
+
+1409360597 f:\dropbox\documents\source code\tetris\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1409360954 source:f:\dropbox\documents\source code\tetris\piece.cpp
+	"graphics.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"piece.h"
+
+1410040619 source:f:\dropbox\documents\source code\tetris\board.cpp
+	"graphics.h"
+	<conio.h>
+	<stdlib.h>
+	<dos.h>
+	<time.h>
+	"board.h"
+
